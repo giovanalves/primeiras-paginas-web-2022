@@ -92,7 +92,7 @@ main {
     width: 18px;
 }
 
-.produtos li {
+.produtos div {
     display: inline-block;
     text-align: center;
     width: 75%;
